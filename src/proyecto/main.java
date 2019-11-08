@@ -1,11 +1,12 @@
 package proyecto;
 
 public class main {
-	
-	public static void main(String[]args) {	
+	public static void main(String[] args) {
+		printHola();
 	}
-	
-	public static void printHola() {
-		System.out.println("Hola Mon.");		
+	public static void printHola(){
+		System.out.println("Hola món!");
 	}
 }
+
+
