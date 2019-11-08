@@ -6,6 +6,6 @@ public class main {
 	}
 	
 	public static void printHola() {
-		System.out.println("Hola Mon");		
+		System.out.println("Hola Mon.");		
 	}
 }
